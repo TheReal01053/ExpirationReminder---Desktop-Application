@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>ExpirationReminder</h1>
+  <h1>ExpirationReminder - Desktop Application (JavaFX)</h1>
 </p>
 <p align="center" title="Author">
   Author: Micheal Thompson
