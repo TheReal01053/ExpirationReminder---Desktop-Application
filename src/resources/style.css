@@ -1,0 +1,97 @@
+#closeButtons {
+    -fx-background-color: #23272A;
+    -fx-background-radius: 0;
+}
+#closeButtons:hover {
+    -fx-background-color: red;
+    -fx-background-radius: 0;
+}
+
+#minButton:hover {
+    -fx-background-color: #373e48;
+    -fx-background-radius: 0;
+}
+
+#minButton {
+    -fx-background-color: #23272A;
+    -fx-background-radius: 0;
+}
+
+#dashButton {
+    -fx-background-color: #23272A;
+    -fx-background-radius: 0;
+    -fx-text-fill: white;
+    -fx-font-size: 16;
+}
+
+#dashButton:hover {
+    -fx-background-color: #373e48;
+}
+
+#errorCode {
+    -fx-alignment: CENTER;
+}
+
+#licenseButton:hover {
+    -fx-background-color: #373e48;
+}
+
+#licenseButton {
+    -fx-background-color: #23272A;
+    -fx-background-radius: 0;
+    -fx-text-fill: white;
+    -fx-font-size: 16;
+}
+
+#tblIcon {
+    -fx-background-color: #2C2F33;
+}
+
+#txtContactName, #txtContactEmail, #txtLicenseName, #datePicker, #trackLicense, #txtSerialNumber, #txtClientName, #deleteButton {
+    -fx-background-color: #23272A;
+    -fx-border-color: #7289da;
+    -fx-border-radius: 0;
+    -fx-background-radius: 0;
+    -fx-text-fill: white;
+}
+
+#txtContactName:hover, #txtContactEmail:hover, #txtLicenseName:hover, #trackLicense:hover, #txtSerialNumber:hover, #txtClientName:hover, #deleteButton:hover {
+    -fx-background-color: #23272A;
+    -fx-border-radius: 4;
+    -fx-background-radius: 4;
+    -fx-border-color: #7289da;
+    -fx-text-fill: white;
+}
+
+.combo-box .list-cell:filled:selected {
+    -fx-text-fill: white;
+    -fx-padding: 3 0 2 7;
+    -fx-cell-size: 1.66667em;
+}
+
+.combo-box-base {
+    -fx-background-color: #23272A;
+    -fx-background-radius: 0;
+    -tx-text-fill: white;
+    -fx-border-color: #7289da;
+    -fx-padding: 0;
+}
+
+.table-view .table-cell{
+    -fx-text-fill: white;
+    -fx-alignment: CENTER;
+}
+
+.table-row-cell {
+    -fx-background-color: #23272A;
+}
+
+.table-row-cell:odd{
+    -fx-background-color: #373e48;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #005797;
+    -fx-background-insets: 0;
+    -fx-background-radius: 1;
+}

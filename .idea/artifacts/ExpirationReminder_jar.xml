@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="ExpirationReminder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExpirationReminder_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ExpirationReminder.jar">
+        <element id="module-output" name="ExpirationReminder" />
+        <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.mail.jar" path-in-jar="/" />
+      </element>
+      <element id="library" level="project" name="mssql-jdbc-7.4.1.jre8" />
+      <element id="library" level="project" name="lombok-edge" />
+    </root>
+  </artifact>
+</component>

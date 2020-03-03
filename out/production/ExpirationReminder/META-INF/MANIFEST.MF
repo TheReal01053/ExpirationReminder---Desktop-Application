@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.reminder.Main
+Class-Path: mssql-jdbc-7.4.1.jre8.jar lombok-edge.jar
+
