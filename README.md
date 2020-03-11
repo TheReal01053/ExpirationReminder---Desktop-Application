@@ -10,9 +10,8 @@
  - Tracks licenses information such as Serial, License Owner, Renewal Date.
  - Sends out emails to assigned contact if less than 30, 14, 7, 1 days left on license.
 
-#### Dependencies 
- * **gson**
- * **javax.mail**
- * **lombok**
+#### Technologies used 
+ * Java
+ * JavaFX 
  
  ![](ExpirationReminder.png)
