@@ -62,8 +62,8 @@ public class Send {
                         case 30:
                         case 60:
                             if (node.getDaysRemaining() != days) {
-                                final String username = "micheal.thompson@claratti.com";
-                                final String password = "Ak4K3OL1";
+                                final String username = "";
+                                final String password = "";
 
                                 Properties props = new Properties();
                                 props.put("mail.smtp.auth", "true");
